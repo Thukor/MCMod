@@ -1,1 +1,3 @@
-Repository to track my progress on remake of the original minecraft mod I had written with my friend Kenneth.
+Repository to track my progress on rewrite + expansion of the small minecraft mod I wrote last summer with my friend Kenneth.
+
+Scope and goals for expansion of mod to be logged somewhere.
