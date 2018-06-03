@@ -1,0 +1,7 @@
+{
+  "resource_name": "coal_ore",
+  "resource_type": "ORE",
+  "harvest_level": 1,
+  "experience_on_harvest": 100,
+  "tool_required": "PICKAXE"
+}
