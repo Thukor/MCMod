@@ -1,0 +1,35 @@
+{
+  "minecraft:coal_ore": {
+    "resourceName": "coal_ore",
+    "resourceCategory": "ORE",
+    "harvestLevel": 1,
+    "experienceOnHarvest": 100,
+    "drops": [
+      {
+        "drop": "minecraft:iron_ore",
+        "quantity": 1,
+        "chance": 1.0
+      },
+      {
+        "drop": "minecraft:coal_ore",
+        "quantity": 1,
+        "chance": 1.5
+      }
+    ],
+    "toolRequired": "PICKAXE"
+  },
+  "minecraft:iron_ore": {
+    "resourceName": "coal_ore",
+    "resourceCategory": "ORE",
+    "harvestLevel": 1,
+    "experienceOnHarvest": 100,
+    "drops": [
+      {
+        "drop": "minecraft:iron_ore",
+        "quantity": 1,
+        "chance": 1.0
+      }
+    ],
+    "toolRequired": "PICKAXE"
+  }
+}

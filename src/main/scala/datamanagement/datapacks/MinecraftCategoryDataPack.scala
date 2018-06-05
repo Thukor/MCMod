@@ -1,0 +1,3 @@
+package datamanagement.datapacks
+
+trait MinecraftCategoryDataPack

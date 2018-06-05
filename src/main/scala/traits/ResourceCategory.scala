@@ -18,6 +18,7 @@ object ResourceCategory {
   case object FLUID extends ResourceCategory
   case object UNKNOWN_CATEGORY extends ResourceCategory
 
+
   def fromstring(s: String): ResourceCategory = s.toUpperCase() match {
     case "LOG" => LOG
     case "ORE" => ORE
