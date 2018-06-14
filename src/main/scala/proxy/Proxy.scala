@@ -1,0 +1,5 @@
+package proxy
+
+trait Proxy {
+
+}
